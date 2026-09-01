@@ -1,0 +1,5 @@
+C:/Users/blake/Desktop/NMRiH2_Offline_DebugOverlay/build-imgui-fix/CMakeFiles/minhook.dir
+C:/Users/blake/Desktop/NMRiH2_Offline_DebugOverlay/build-imgui-fix/CMakeFiles/dear_imgui.dir
+C:/Users/blake/Desktop/NMRiH2_Offline_DebugOverlay/build-imgui-fix/CMakeFiles/NMRiH2_Offline_DebugOverlay.dir
+C:/Users/blake/Desktop/NMRiH2_Offline_DebugOverlay/build-imgui-fix/CMakeFiles/ALL_BUILD.dir
+C:/Users/blake/Desktop/NMRiH2_Offline_DebugOverlay/build-imgui-fix/CMakeFiles/ZERO_CHECK.dir

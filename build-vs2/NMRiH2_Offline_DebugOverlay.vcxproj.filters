@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\src\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\third_party\CppSDK\SDK\Basic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\third_party\CppSDK\SDK\CoreUObject_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\third_party\CppSDK\SDK\Engine_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\third_party\CppSDK\SDK\Kosovo_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\blake\Desktop\NMRiH2_Offline_DebugOverlay\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8DC16EFF-C5C1-3ECF-BA22-393D9ECA6825}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
